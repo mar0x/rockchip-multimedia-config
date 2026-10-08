@@ -1,3 +1,10 @@
+rockchip-multimedia-config (1.0.3-1~resolute) resolute; urgency=medium
+
+  * Update to 1.0.3
+  * Package for resolute
+
+ -- Max <rk-obs@yandex.ru>  Thu, 08 Oct 2026 22:04:28 +0300
+
 rockchip-multimedia-config (1.0.2+noble) noble; urgency=medium
 
   * Update to 1.0.2

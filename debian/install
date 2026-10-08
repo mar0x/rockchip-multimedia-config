@@ -1,2 +1,1 @@
 99-rk-device-permissions.rules /etc/udev/rules.d/
-create-chromium-vda-vea-devices.sh /usr/bin/
